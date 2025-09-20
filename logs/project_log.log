@@ -5,3 +5,9 @@
 2025-09-18 23:22:28 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-19T03:22:28.290745', 'temperature': 94.4}
 2025-09-18 23:22:33 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-19T03:22:33.296116', 'temperature': 94.8}
 2025-09-18 23:22:38 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-19T03:22:38.302661', 'temperature': 95.2}
+2025-09-20 00:21:02 | INFO | Logging to file: logs/project_log.log
+2025-09-20 00:21:02 | INFO | Log sanitization enaUSERled, personal info removed
+2025-09-20 00:21:02 | INFO | Project root: /Users/USER/Pictures/Data Streaming Project/USERuzzline-04-USERrandon
+2025-09-20 00:21:02 | INFO | Data folder: /Users/USER/Pictures/Data Streaming Project/USERuzzline-04-USERrandon/data
+2025-09-20 00:21:02 | INFO | Data file: /Users/USER/Pictures/Data Streaming Project/USERuzzline-04-USERrandon/data/USERuzz_live.json
+2025-09-20 00:21:03 | INFO | START consumer.

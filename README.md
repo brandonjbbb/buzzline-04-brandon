@@ -290,3 +290,19 @@ Live Bar Chart (Kafka JSON streaming)
 Live Line Chart with Alert (Kafka CSV streaming)
 
 ![CSV (Kafka)](images/live_line_chart_example.jpg)
+
+
+## Project Consumer -Brandon
+
+This consumer reads JSON messages from a local file (`buzz_live.json`) created by the `project_producer_case.py`.  
+Instead of counting messages per author, it **calculates the average message length per author** and displays a **live bar chart**.  
+
+### Why This Is Interesting
+This gives insight into how verbose or concise each author tends to be. It shows differences in writing style in real time as new messages arrive.  
+
+### How to Run
+
+#### Start Producer
+```bash
+source .venv/bin/activate
+python3 -m producers.basic_json_producer_case
