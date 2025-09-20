@@ -26,7 +26,11 @@ import matplotlib.pyplot as plt
 # Import functions from local modules
 from utils.utils_logger import logger
 
+#####################################
+# Variables
+#####################################
 
+stats = {}
 #####################################
 # Set up Paths - read from the file the producer writes
 #####################################
