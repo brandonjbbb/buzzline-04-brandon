@@ -1,0 +1,480 @@
+2025-09-20 00:37:25 | INFO | Updated author counts: {'Charlie': 16, 'BoUSER': 27, 'Eve': 26, 'Alice': 24}
+2025-09-20 00:37:25 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:28 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was USERoring.', 'author': 'BoUSER'}
+2025-09-20 00:37:28 | INFO | Message received from author: BoUSER
+2025-09-20 00:37:28 | INFO | Updated author counts: {'Charlie': 16, 'BoUSER': 28, 'Eve': 26, 'Alice': 24}
+2025-09-20 00:37:28 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:31 | INFO | Processed JSON message: {'message': 'I just found a story! It was exciting.', 'author': 'BoUSER'}
+2025-09-20 00:37:31 | INFO | Message received from author: BoUSER
+2025-09-20 00:37:31 | INFO | Updated author counts: {'Charlie': 16, 'BoUSER': 29, 'Eve': 26, 'Alice': 24}
+2025-09-20 00:37:31 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:34 | INFO | Processed JSON message: {'message': 'I just shared an app! It was exciting.', 'author': 'Eve'}
+2025-09-20 00:37:34 | INFO | Message received from author: Eve
+2025-09-20 00:37:34 | INFO | Updated author counts: {'Charlie': 16, 'BoUSER': 29, 'Eve': 27, 'Alice': 24}
+2025-09-20 00:37:34 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:37 | INFO | Processed JSON message: {'message': 'I just saw an app! It was funny.', 'author': 'BoUSER'}
+2025-09-20 00:37:37 | INFO | Message received from author: BoUSER
+2025-09-20 00:37:37 | INFO | Updated author counts: {'Charlie': 16, 'BoUSER': 30, 'Eve': 27, 'Alice': 24}
+2025-09-20 00:37:37 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:40 | INFO | Processed JSON message: {'message': 'I just tried an app! It was exciting.', 'author': 'Eve'}
+2025-09-20 00:37:40 | INFO | Message received from author: Eve
+2025-09-20 00:37:40 | INFO | Updated author counts: {'Charlie': 16, 'BoUSER': 30, 'Eve': 28, 'Alice': 24}
+2025-09-20 00:37:40 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:43 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was weird.', 'author': 'Eve'}
+2025-09-20 00:37:43 | INFO | Message received from author: Eve
+2025-09-20 00:37:43 | INFO | Updated author counts: {'Charlie': 16, 'BoUSER': 30, 'Eve': 29, 'Alice': 24}
+2025-09-20 00:37:43 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:46 | INFO | Processed JSON message: {'message': 'I just tried a meme! It was exciting.', 'author': 'Charlie'}
+2025-09-20 00:37:46 | INFO | Message received from author: Charlie
+2025-09-20 00:37:46 | INFO | Updated author counts: {'Charlie': 17, 'BoUSER': 30, 'Eve': 29, 'Alice': 24}
+2025-09-20 00:37:46 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:49 | INFO | Processed JSON message: {'message': 'I just shared a trick! It was amazing.', 'author': 'Charlie'}
+2025-09-20 00:37:49 | INFO | Message received from author: Charlie
+2025-09-20 00:37:49 | INFO | Updated author counts: {'Charlie': 18, 'BoUSER': 30, 'Eve': 29, 'Alice': 24}
+2025-09-20 00:37:49 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:52 | INFO | Processed JSON message: {'message': 'I just loved a movie! It was funny.', 'author': 'BoUSER'}
+2025-09-20 00:37:52 | INFO | Message received from author: BoUSER
+2025-09-20 00:37:52 | INFO | Updated author counts: {'Charlie': 18, 'BoUSER': 31, 'Eve': 29, 'Alice': 24}
+2025-09-20 00:37:52 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:55 | INFO | Processed JSON message: {'message': 'I just tried a trick! It was exciting.', 'author': 'Charlie'}
+2025-09-20 00:37:55 | INFO | Message received from author: Charlie
+2025-09-20 00:37:55 | INFO | Updated author counts: {'Charlie': 19, 'BoUSER': 31, 'Eve': 29, 'Alice': 24}
+2025-09-20 00:37:55 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:37:58 | INFO | Processed JSON message: {'message': 'I just shared a story! It was USERoring.', 'author': 'Alice'}
+2025-09-20 00:37:58 | INFO | Message received from author: Alice
+2025-09-20 00:37:58 | INFO | Updated author counts: {'Charlie': 19, 'BoUSER': 31, 'Eve': 29, 'Alice': 25}
+2025-09-20 00:37:58 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:01 | INFO | Processed JSON message: {'message': 'I just loved a story! It was amazing.', 'author': 'Charlie'}
+2025-09-20 00:38:01 | INFO | Message received from author: Charlie
+2025-09-20 00:38:01 | INFO | Updated author counts: {'Charlie': 20, 'BoUSER': 31, 'Eve': 29, 'Alice': 25}
+2025-09-20 00:38:01 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:04 | INFO | Processed JSON message: {'message': 'I just saw a trick! It was weird.', 'author': 'BoUSER'}
+2025-09-20 00:38:04 | INFO | Message received from author: BoUSER
+2025-09-20 00:38:04 | INFO | Updated author counts: {'Charlie': 20, 'BoUSER': 32, 'Eve': 29, 'Alice': 25}
+2025-09-20 00:38:04 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:07 | INFO | Processed JSON message: {'message': 'I just tried a movie! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:38:07 | INFO | Message received from author: Alice
+2025-09-20 00:38:07 | INFO | Updated author counts: {'Charlie': 20, 'BoUSER': 32, 'Eve': 29, 'Alice': 26}
+2025-09-20 00:38:07 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:10 | INFO | Processed JSON message: {'message': 'I just saw a meme! It was exciting.', 'author': 'Eve'}
+2025-09-20 00:38:10 | INFO | Message received from author: Eve
+2025-09-20 00:38:10 | INFO | Updated author counts: {'Charlie': 20, 'BoUSER': 32, 'Eve': 30, 'Alice': 26}
+2025-09-20 00:38:10 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:13 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:38:13 | INFO | Message received from author: Alice
+2025-09-20 00:38:13 | INFO | Updated author counts: {'Charlie': 20, 'BoUSER': 32, 'Eve': 30, 'Alice': 27}
+2025-09-20 00:38:13 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:16 | INFO | Processed JSON message: {'message': 'I just found a trick! It was funny.', 'author': 'Eve'}
+2025-09-20 00:38:16 | INFO | Message received from author: Eve
+2025-09-20 00:38:16 | INFO | Updated author counts: {'Charlie': 20, 'BoUSER': 32, 'Eve': 31, 'Alice': 27}
+2025-09-20 00:38:16 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:19 | INFO | Processed JSON message: {'message': 'I just tried a movie! It was funny.', 'author': 'Eve'}
+2025-09-20 00:38:19 | INFO | Message received from author: Eve
+2025-09-20 00:38:19 | INFO | Updated author counts: {'Charlie': 20, 'BoUSER': 32, 'Eve': 32, 'Alice': 27}
+2025-09-20 00:38:19 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:22 | INFO | Processed JSON message: {'message': 'I just found a story! It was weird.', 'author': 'Charlie'}
+2025-09-20 00:38:22 | INFO | Message received from author: Charlie
+2025-09-20 00:38:22 | INFO | Updated author counts: {'Charlie': 21, 'BoUSER': 32, 'Eve': 32, 'Alice': 27}
+2025-09-20 00:38:22 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:25 | INFO | Processed JSON message: {'message': 'I just shared a trick! It was funny.', 'author': 'Charlie'}
+2025-09-20 00:38:25 | INFO | Message received from author: Charlie
+2025-09-20 00:38:25 | INFO | Updated author counts: {'Charlie': 22, 'BoUSER': 32, 'Eve': 32, 'Alice': 27}
+2025-09-20 00:38:25 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:28 | INFO | Processed JSON message: {'message': 'I just loved an app! It was weird.', 'author': 'Alice'}
+2025-09-20 00:38:28 | INFO | Message received from author: Alice
+2025-09-20 00:38:28 | INFO | Updated author counts: {'Charlie': 22, 'BoUSER': 32, 'Eve': 32, 'Alice': 28}
+2025-09-20 00:38:28 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:31 | INFO | Processed JSON message: {'message': 'I just found a meme! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:38:31 | INFO | Message received from author: Alice
+2025-09-20 00:38:31 | INFO | Updated author counts: {'Charlie': 22, 'BoUSER': 32, 'Eve': 32, 'Alice': 29}
+2025-09-20 00:38:31 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:34 | INFO | Processed JSON message: {'message': 'I just tried a movie! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:38:34 | INFO | Message received from author: BoUSER
+2025-09-20 00:38:34 | INFO | Updated author counts: {'Charlie': 22, 'BoUSER': 33, 'Eve': 32, 'Alice': 29}
+2025-09-20 00:38:34 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:37 | INFO | Processed JSON message: {'message': 'I just saw a meme! It was USERoring.', 'author': 'Alice'}
+2025-09-20 00:38:37 | INFO | Message received from author: Alice
+2025-09-20 00:38:37 | INFO | Updated author counts: {'Charlie': 22, 'BoUSER': 33, 'Eve': 32, 'Alice': 30}
+2025-09-20 00:38:37 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:40 | INFO | Processed JSON message: {'message': 'I just found a movie! It was exciting.', 'author': 'BoUSER'}
+2025-09-20 00:38:40 | INFO | Message received from author: BoUSER
+2025-09-20 00:38:40 | INFO | Updated author counts: {'Charlie': 22, 'BoUSER': 34, 'Eve': 32, 'Alice': 30}
+2025-09-20 00:38:40 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:43 | INFO | Processed JSON message: {'message': 'I just tried a movie! It was funny.', 'author': 'BoUSER'}
+2025-09-20 00:38:43 | INFO | Message received from author: BoUSER
+2025-09-20 00:38:43 | INFO | Updated author counts: {'Charlie': 22, 'BoUSER': 35, 'Eve': 32, 'Alice': 30}
+2025-09-20 00:38:43 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:46 | INFO | Processed JSON message: {'message': 'I just tried a movie! It was amazing.', 'author': 'Charlie'}
+2025-09-20 00:38:46 | INFO | Message received from author: Charlie
+2025-09-20 00:38:46 | INFO | Updated author counts: {'Charlie': 23, 'BoUSER': 35, 'Eve': 32, 'Alice': 30}
+2025-09-20 00:38:46 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:49 | INFO | Processed JSON message: {'message': 'I just shared an app! It was weird.', 'author': 'Charlie'}
+2025-09-20 00:38:49 | INFO | Message received from author: Charlie
+2025-09-20 00:38:49 | INFO | Updated author counts: {'Charlie': 24, 'BoUSER': 35, 'Eve': 32, 'Alice': 30}
+2025-09-20 00:38:49 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:52 | INFO | Processed JSON message: {'message': 'I just found a movie! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:38:52 | INFO | Message received from author: Alice
+2025-09-20 00:38:52 | INFO | Updated author counts: {'Charlie': 24, 'BoUSER': 35, 'Eve': 32, 'Alice': 31}
+2025-09-20 00:38:52 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:55 | INFO | Processed JSON message: {'message': 'I just shared an app! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:38:55 | INFO | Message received from author: Alice
+2025-09-20 00:38:55 | INFO | Updated author counts: {'Charlie': 24, 'BoUSER': 35, 'Eve': 32, 'Alice': 32}
+2025-09-20 00:38:55 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:38:58 | INFO | Processed JSON message: {'message': 'I just saw a story! It was funny.', 'author': 'Eve'}
+2025-09-20 00:38:58 | INFO | Message received from author: Eve
+2025-09-20 00:38:58 | INFO | Updated author counts: {'Charlie': 24, 'BoUSER': 35, 'Eve': 33, 'Alice': 32}
+2025-09-20 00:38:58 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:01 | INFO | Processed JSON message: {'message': 'I just shared an app! It was amazing.', 'author': 'Charlie'}
+2025-09-20 00:39:01 | INFO | Message received from author: Charlie
+2025-09-20 00:39:01 | INFO | Updated author counts: {'Charlie': 25, 'BoUSER': 35, 'Eve': 33, 'Alice': 32}
+2025-09-20 00:39:01 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:04 | INFO | Processed JSON message: {'message': 'I just tried an app! It was weird.', 'author': 'BoUSER'}
+2025-09-20 00:39:04 | INFO | Message received from author: BoUSER
+2025-09-20 00:39:04 | INFO | Updated author counts: {'Charlie': 25, 'BoUSER': 36, 'Eve': 33, 'Alice': 32}
+2025-09-20 00:39:04 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:07 | INFO | Processed JSON message: {'message': 'I just saw a story! It was funny.', 'author': 'Eve'}
+2025-09-20 00:39:07 | INFO | Message received from author: Eve
+2025-09-20 00:39:07 | INFO | Updated author counts: {'Charlie': 25, 'BoUSER': 36, 'Eve': 34, 'Alice': 32}
+2025-09-20 00:39:07 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:10 | INFO | Processed JSON message: {'message': 'I just saw a trick! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:39:10 | INFO | Message received from author: BoUSER
+2025-09-20 00:39:10 | INFO | Updated author counts: {'Charlie': 25, 'BoUSER': 37, 'Eve': 34, 'Alice': 32}
+2025-09-20 00:39:10 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:13 | INFO | Processed JSON message: {'message': 'I just shared a story! It was weird.', 'author': 'Charlie'}
+2025-09-20 00:39:13 | INFO | Message received from author: Charlie
+2025-09-20 00:39:13 | INFO | Updated author counts: {'Charlie': 26, 'BoUSER': 37, 'Eve': 34, 'Alice': 32}
+2025-09-20 00:39:13 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:16 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was weird.', 'author': 'Eve'}
+2025-09-20 00:39:16 | INFO | Message received from author: Eve
+2025-09-20 00:39:16 | INFO | Updated author counts: {'Charlie': 26, 'BoUSER': 37, 'Eve': 35, 'Alice': 32}
+2025-09-20 00:39:16 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:19 | INFO | Processed JSON message: {'message': 'I just loved an app! It was weird.', 'author': 'Alice'}
+2025-09-20 00:39:19 | INFO | Message received from author: Alice
+2025-09-20 00:39:19 | INFO | Updated author counts: {'Charlie': 26, 'BoUSER': 37, 'Eve': 35, 'Alice': 33}
+2025-09-20 00:39:19 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:22 | INFO | Processed JSON message: {'message': 'I just saw an app! It was exciting.', 'author': 'Charlie'}
+2025-09-20 00:39:22 | INFO | Message received from author: Charlie
+2025-09-20 00:39:22 | INFO | Updated author counts: {'Charlie': 27, 'BoUSER': 37, 'Eve': 35, 'Alice': 33}
+2025-09-20 00:39:22 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:25 | INFO | Processed JSON message: {'message': 'I just loved a meme! It was funny.', 'author': 'Charlie'}
+2025-09-20 00:39:25 | INFO | Message received from author: Charlie
+2025-09-20 00:39:25 | INFO | Updated author counts: {'Charlie': 28, 'BoUSER': 37, 'Eve': 35, 'Alice': 33}
+2025-09-20 00:39:25 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:28 | INFO | Processed JSON message: {'message': 'I just found a movie! It was USERoring.', 'author': 'Alice'}
+2025-09-20 00:39:28 | INFO | Message received from author: Alice
+2025-09-20 00:39:28 | INFO | Updated author counts: {'Charlie': 28, 'BoUSER': 37, 'Eve': 35, 'Alice': 34}
+2025-09-20 00:39:28 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:31 | INFO | Processed JSON message: {'message': 'I just tried a story! It was funny.', 'author': 'Charlie'}
+2025-09-20 00:39:31 | INFO | Message received from author: Charlie
+2025-09-20 00:39:31 | INFO | Updated author counts: {'Charlie': 29, 'BoUSER': 37, 'Eve': 35, 'Alice': 34}
+2025-09-20 00:39:31 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:34 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was exciting.', 'author': 'Charlie'}
+2025-09-20 00:39:34 | INFO | Message received from author: Charlie
+2025-09-20 00:39:34 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 37, 'Eve': 35, 'Alice': 34}
+2025-09-20 00:39:34 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:37 | INFO | Processed JSON message: {'message': 'I just saw an app! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:39:37 | INFO | Message received from author: BoUSER
+2025-09-20 00:39:37 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 38, 'Eve': 35, 'Alice': 34}
+2025-09-20 00:39:37 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:40 | INFO | Processed JSON message: {'message': 'I just found a story! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:39:40 | INFO | Message received from author: Alice
+2025-09-20 00:39:40 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 38, 'Eve': 35, 'Alice': 35}
+2025-09-20 00:39:40 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:43 | INFO | Processed JSON message: {'message': 'I just loved a story! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:39:43 | INFO | Message received from author: Alice
+2025-09-20 00:39:43 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 38, 'Eve': 35, 'Alice': 36}
+2025-09-20 00:39:43 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:46 | INFO | Processed JSON message: {'message': 'I just tried a meme! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:39:46 | INFO | Message received from author: Alice
+2025-09-20 00:39:46 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 38, 'Eve': 35, 'Alice': 37}
+2025-09-20 00:39:46 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:49 | INFO | Processed JSON message: {'message': 'I just tried a movie! It was funny.', 'author': 'BoUSER'}
+2025-09-20 00:39:49 | INFO | Message received from author: BoUSER
+2025-09-20 00:39:49 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 39, 'Eve': 35, 'Alice': 37}
+2025-09-20 00:39:49 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:52 | INFO | Processed JSON message: {'message': 'I just shared a movie! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:39:52 | INFO | Message received from author: Alice
+2025-09-20 00:39:52 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 39, 'Eve': 35, 'Alice': 38}
+2025-09-20 00:39:52 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:55 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was USERoring.', 'author': 'Eve'}
+2025-09-20 00:39:55 | INFO | Message received from author: Eve
+2025-09-20 00:39:55 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 39, 'Eve': 36, 'Alice': 38}
+2025-09-20 00:39:55 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:39:58 | INFO | Processed JSON message: {'message': 'I just found a movie! It was weird.', 'author': 'Alice'}
+2025-09-20 00:39:58 | INFO | Message received from author: Alice
+2025-09-20 00:39:58 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 39, 'Eve': 36, 'Alice': 39}
+2025-09-20 00:39:58 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:01 | INFO | Processed JSON message: {'message': 'I just tried a meme! It was amazing.', 'author': 'Eve'}
+2025-09-20 00:40:01 | INFO | Message received from author: Eve
+2025-09-20 00:40:01 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 39, 'Eve': 37, 'Alice': 39}
+2025-09-20 00:40:01 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:04 | INFO | Processed JSON message: {'message': 'I just loved a movie! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:40:04 | INFO | Message received from author: Alice
+2025-09-20 00:40:04 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 39, 'Eve': 37, 'Alice': 40}
+2025-09-20 00:40:04 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:07 | INFO | Processed JSON message: {'message': 'I just shared a movie! It was funny.', 'author': 'Eve'}
+2025-09-20 00:40:07 | INFO | Message received from author: Eve
+2025-09-20 00:40:07 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 39, 'Eve': 38, 'Alice': 40}
+2025-09-20 00:40:07 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:10 | INFO | Processed JSON message: {'message': 'I just saw a trick! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:40:10 | INFO | Message received from author: BoUSER
+2025-09-20 00:40:10 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 40, 'Eve': 38, 'Alice': 40}
+2025-09-20 00:40:10 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:13 | INFO | Processed JSON message: {'message': 'I just saw an app! It was exciting.', 'author': 'Eve'}
+2025-09-20 00:40:13 | INFO | Message received from author: Eve
+2025-09-20 00:40:13 | INFO | Updated author counts: {'Charlie': 30, 'BoUSER': 40, 'Eve': 39, 'Alice': 40}
+2025-09-20 00:40:13 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:16 | INFO | Processed JSON message: {'message': 'I just tried an app! It was exciting.', 'author': 'Charlie'}
+2025-09-20 00:40:16 | INFO | Message received from author: Charlie
+2025-09-20 00:40:16 | INFO | Updated author counts: {'Charlie': 31, 'BoUSER': 40, 'Eve': 39, 'Alice': 40}
+2025-09-20 00:40:16 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:19 | INFO | Processed JSON message: {'message': 'I just saw a story! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:40:19 | INFO | Message received from author: Alice
+2025-09-20 00:40:19 | INFO | Updated author counts: {'Charlie': 31, 'BoUSER': 40, 'Eve': 39, 'Alice': 41}
+2025-09-20 00:40:19 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:22 | INFO | Processed JSON message: {'message': 'I just shared a trick! It was USERoring.', 'author': 'Alice'}
+2025-09-20 00:40:22 | INFO | Message received from author: Alice
+2025-09-20 00:40:22 | INFO | Updated author counts: {'Charlie': 31, 'BoUSER': 40, 'Eve': 39, 'Alice': 42}
+2025-09-20 00:40:22 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:25 | INFO | Processed JSON message: {'message': 'I just saw a movie! It was amazing.', 'author': 'Eve'}
+2025-09-20 00:40:25 | INFO | Message received from author: Eve
+2025-09-20 00:40:25 | INFO | Updated author counts: {'Charlie': 31, 'BoUSER': 40, 'Eve': 40, 'Alice': 42}
+2025-09-20 00:40:25 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:28 | INFO | Processed JSON message: {'message': 'I just found a story! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:40:28 | INFO | Message received from author: Alice
+2025-09-20 00:40:28 | INFO | Updated author counts: {'Charlie': 31, 'BoUSER': 40, 'Eve': 40, 'Alice': 43}
+2025-09-20 00:40:28 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:31 | INFO | Processed JSON message: {'message': 'I just tried a trick! It was funny.', 'author': 'Alice'}
+2025-09-20 00:40:31 | INFO | Message received from author: Alice
+2025-09-20 00:40:31 | INFO | Updated author counts: {'Charlie': 31, 'BoUSER': 40, 'Eve': 40, 'Alice': 44}
+2025-09-20 00:40:31 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:34 | INFO | Processed JSON message: {'message': 'I just saw a trick! It was funny.', 'author': 'Charlie'}
+2025-09-20 00:40:34 | INFO | Message received from author: Charlie
+2025-09-20 00:40:34 | INFO | Updated author counts: {'Charlie': 32, 'BoUSER': 40, 'Eve': 40, 'Alice': 44}
+2025-09-20 00:40:34 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:37 | INFO | Processed JSON message: {'message': 'I just tried a trick! It was weird.', 'author': 'Charlie'}
+2025-09-20 00:40:37 | INFO | Message received from author: Charlie
+2025-09-20 00:40:37 | INFO | Updated author counts: {'Charlie': 33, 'BoUSER': 40, 'Eve': 40, 'Alice': 44}
+2025-09-20 00:40:37 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:40 | INFO | Processed JSON message: {'message': 'I just shared a meme! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:40:40 | INFO | Message received from author: Alice
+2025-09-20 00:40:40 | INFO | Updated author counts: {'Charlie': 33, 'BoUSER': 40, 'Eve': 40, 'Alice': 45}
+2025-09-20 00:40:40 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:43 | INFO | Processed JSON message: {'message': 'I just found a trick! It was USERoring.', 'author': 'Charlie'}
+2025-09-20 00:40:43 | INFO | Message received from author: Charlie
+2025-09-20 00:40:43 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 40, 'Eve': 40, 'Alice': 45}
+2025-09-20 00:40:43 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:46 | INFO | Processed JSON message: {'message': 'I just loved a movie! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:40:46 | INFO | Message received from author: BoUSER
+2025-09-20 00:40:46 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 40, 'Alice': 45}
+2025-09-20 00:40:46 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:49 | INFO | Processed JSON message: {'message': 'I just saw a meme! It was USERoring.', 'author': 'Eve'}
+2025-09-20 00:40:49 | INFO | Message received from author: Eve
+2025-09-20 00:40:49 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 41, 'Alice': 45}
+2025-09-20 00:40:49 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:52 | INFO | Processed JSON message: {'message': 'I just tried a movie! It was amazing.', 'author': 'Eve'}
+2025-09-20 00:40:52 | INFO | Message received from author: Eve
+2025-09-20 00:40:52 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 42, 'Alice': 45}
+2025-09-20 00:40:52 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:55 | INFO | Processed JSON message: {'message': 'I just found a movie! It was weird.', 'author': 'Eve'}
+2025-09-20 00:40:55 | INFO | Message received from author: Eve
+2025-09-20 00:40:55 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 43, 'Alice': 45}
+2025-09-20 00:40:55 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:40:58 | INFO | Processed JSON message: {'message': 'I just loved a movie! It was amazing.', 'author': 'Eve'}
+2025-09-20 00:40:58 | INFO | Message received from author: Eve
+2025-09-20 00:40:58 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 44, 'Alice': 45}
+2025-09-20 00:40:58 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:01 | INFO | Processed JSON message: {'message': 'I just loved a movie! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:41:01 | INFO | Message received from author: Alice
+2025-09-20 00:41:01 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 44, 'Alice': 46}
+2025-09-20 00:41:01 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:04 | INFO | Processed JSON message: {'message': 'I just shared a movie! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:41:04 | INFO | Message received from author: Alice
+2025-09-20 00:41:04 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 44, 'Alice': 47}
+2025-09-20 00:41:04 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:07 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was USERoring.', 'author': 'Eve'}
+2025-09-20 00:41:07 | INFO | Message received from author: Eve
+2025-09-20 00:41:07 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 45, 'Alice': 47}
+2025-09-20 00:41:07 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:10 | INFO | Processed JSON message: {'message': 'I just shared an app! It was funny.', 'author': 'Eve'}
+2025-09-20 00:41:10 | INFO | Message received from author: Eve
+2025-09-20 00:41:10 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 41, 'Eve': 46, 'Alice': 47}
+2025-09-20 00:41:10 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:13 | INFO | Processed JSON message: {'message': 'I just loved an app! It was exciting.', 'author': 'BoUSER'}
+2025-09-20 00:41:13 | INFO | Message received from author: BoUSER
+2025-09-20 00:41:13 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 42, 'Eve': 46, 'Alice': 47}
+2025-09-20 00:41:13 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:16 | INFO | Processed JSON message: {'message': 'I just found a meme! It was funny.', 'author': 'Eve'}
+2025-09-20 00:41:16 | INFO | Message received from author: Eve
+2025-09-20 00:41:16 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 42, 'Eve': 47, 'Alice': 47}
+2025-09-20 00:41:16 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:19 | INFO | Processed JSON message: {'message': 'I just loved a meme! It was funny.', 'author': 'Eve'}
+2025-09-20 00:41:19 | INFO | Message received from author: Eve
+2025-09-20 00:41:19 | INFO | Updated author counts: {'Charlie': 34, 'BoUSER': 42, 'Eve': 48, 'Alice': 47}
+2025-09-20 00:41:19 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:22 | INFO | Processed JSON message: {'message': 'I just shared a movie! It was funny.', 'author': 'Charlie'}
+2025-09-20 00:41:22 | INFO | Message received from author: Charlie
+2025-09-20 00:41:22 | INFO | Updated author counts: {'Charlie': 35, 'BoUSER': 42, 'Eve': 48, 'Alice': 47}
+2025-09-20 00:41:22 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:25 | INFO | Processed JSON message: {'message': 'I just found a meme! It was funny.', 'author': 'BoUSER'}
+2025-09-20 00:41:25 | INFO | Message received from author: BoUSER
+2025-09-20 00:41:25 | INFO | Updated author counts: {'Charlie': 35, 'BoUSER': 43, 'Eve': 48, 'Alice': 47}
+2025-09-20 00:41:25 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:28 | INFO | Processed JSON message: {'message': 'I just shared a story! It was exciting.', 'author': 'Eve'}
+2025-09-20 00:41:28 | INFO | Message received from author: Eve
+2025-09-20 00:41:28 | INFO | Updated author counts: {'Charlie': 35, 'BoUSER': 43, 'Eve': 49, 'Alice': 47}
+2025-09-20 00:41:28 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:31 | INFO | Processed JSON message: {'message': 'I just loved an app! It was amazing.', 'author': 'Eve'}
+2025-09-20 00:41:31 | INFO | Message received from author: Eve
+2025-09-20 00:41:31 | INFO | Updated author counts: {'Charlie': 35, 'BoUSER': 43, 'Eve': 50, 'Alice': 47}
+2025-09-20 00:41:31 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:34 | INFO | Processed JSON message: {'message': 'I just shared an app! It was funny.', 'author': 'Alice'}
+2025-09-20 00:41:34 | INFO | Message received from author: Alice
+2025-09-20 00:41:34 | INFO | Updated author counts: {'Charlie': 35, 'BoUSER': 43, 'Eve': 50, 'Alice': 48}
+2025-09-20 00:41:34 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:37 | INFO | Processed JSON message: {'message': 'I just shared a trick! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:41:37 | INFO | Message received from author: Alice
+2025-09-20 00:41:37 | INFO | Updated author counts: {'Charlie': 35, 'BoUSER': 43, 'Eve': 50, 'Alice': 49}
+2025-09-20 00:41:37 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:40 | INFO | Processed JSON message: {'message': 'I just shared a trick! It was funny.', 'author': 'Charlie'}
+2025-09-20 00:41:40 | INFO | Message received from author: Charlie
+2025-09-20 00:41:40 | INFO | Updated author counts: {'Charlie': 36, 'BoUSER': 43, 'Eve': 50, 'Alice': 49}
+2025-09-20 00:41:40 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:43 | INFO | Processed JSON message: {'message': 'I just saw an app! It was exciting.', 'author': 'Alice'}
+2025-09-20 00:41:43 | INFO | Message received from author: Alice
+2025-09-20 00:41:43 | INFO | Updated author counts: {'Charlie': 36, 'BoUSER': 43, 'Eve': 50, 'Alice': 50}
+2025-09-20 00:41:43 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:46 | INFO | Processed JSON message: {'message': 'I just tried a trick! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:41:46 | INFO | Message received from author: BoUSER
+2025-09-20 00:41:46 | INFO | Updated author counts: {'Charlie': 36, 'BoUSER': 44, 'Eve': 50, 'Alice': 50}
+2025-09-20 00:41:46 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:49 | INFO | Processed JSON message: {'message': 'I just found an app! It was amazing.', 'author': 'Eve'}
+2025-09-20 00:41:49 | INFO | Message received from author: Eve
+2025-09-20 00:41:49 | INFO | Updated author counts: {'Charlie': 36, 'BoUSER': 44, 'Eve': 51, 'Alice': 50}
+2025-09-20 00:41:49 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:52 | INFO | Processed JSON message: {'message': 'I just loved a story! It was weird.', 'author': 'Eve'}
+2025-09-20 00:41:52 | INFO | Message received from author: Eve
+2025-09-20 00:41:52 | INFO | Updated author counts: {'Charlie': 36, 'BoUSER': 44, 'Eve': 52, 'Alice': 50}
+2025-09-20 00:41:52 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:55 | INFO | Processed JSON message: {'message': 'I just shared a meme! It was USERoring.', 'author': 'Charlie'}
+2025-09-20 00:41:55 | INFO | Message received from author: Charlie
+2025-09-20 00:41:55 | INFO | Updated author counts: {'Charlie': 37, 'BoUSER': 44, 'Eve': 52, 'Alice': 50}
+2025-09-20 00:41:55 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:41:58 | INFO | Processed JSON message: {'message': 'I just saw a meme! It was weird.', 'author': 'Alice'}
+2025-09-20 00:41:58 | INFO | Message received from author: Alice
+2025-09-20 00:41:58 | INFO | Updated author counts: {'Charlie': 37, 'BoUSER': 44, 'Eve': 52, 'Alice': 51}
+2025-09-20 00:41:58 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:01 | INFO | Processed JSON message: {'message': 'I just loved a story! It was weird.', 'author': 'Charlie'}
+2025-09-20 00:42:01 | INFO | Message received from author: Charlie
+2025-09-20 00:42:01 | INFO | Updated author counts: {'Charlie': 38, 'BoUSER': 44, 'Eve': 52, 'Alice': 51}
+2025-09-20 00:42:01 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:04 | INFO | Processed JSON message: {'message': 'I just tried a story! It was amazing.', 'author': 'Charlie'}
+2025-09-20 00:42:04 | INFO | Message received from author: Charlie
+2025-09-20 00:42:04 | INFO | Updated author counts: {'Charlie': 39, 'BoUSER': 44, 'Eve': 52, 'Alice': 51}
+2025-09-20 00:42:04 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:07 | INFO | Processed JSON message: {'message': 'I just found a movie! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:42:07 | INFO | Message received from author: Alice
+2025-09-20 00:42:07 | INFO | Updated author counts: {'Charlie': 39, 'BoUSER': 44, 'Eve': 52, 'Alice': 52}
+2025-09-20 00:42:07 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:10 | INFO | Processed JSON message: {'message': 'I just loved a meme! It was funny.', 'author': 'Alice'}
+2025-09-20 00:42:10 | INFO | Message received from author: Alice
+2025-09-20 00:42:10 | INFO | Updated author counts: {'Charlie': 39, 'BoUSER': 44, 'Eve': 52, 'Alice': 53}
+2025-09-20 00:42:10 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:13 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was funny.', 'author': 'Charlie'}
+2025-09-20 00:42:13 | INFO | Message received from author: Charlie
+2025-09-20 00:42:13 | INFO | Updated author counts: {'Charlie': 40, 'BoUSER': 44, 'Eve': 52, 'Alice': 53}
+2025-09-20 00:42:13 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:16 | INFO | Processed JSON message: {'message': 'I just saw a story! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:42:16 | INFO | Message received from author: Alice
+2025-09-20 00:42:16 | INFO | Updated author counts: {'Charlie': 40, 'BoUSER': 44, 'Eve': 52, 'Alice': 54}
+2025-09-20 00:42:16 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:19 | INFO | Processed JSON message: {'message': 'I just saw an app! It was USERoring.', 'author': 'Charlie'}
+2025-09-20 00:42:19 | INFO | Message received from author: Charlie
+2025-09-20 00:42:19 | INFO | Updated author counts: {'Charlie': 41, 'BoUSER': 44, 'Eve': 52, 'Alice': 54}
+2025-09-20 00:42:19 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:22 | INFO | Processed JSON message: {'message': 'I just loved a trick! It was exciting.', 'author': 'Charlie'}
+2025-09-20 00:42:22 | INFO | Message received from author: Charlie
+2025-09-20 00:42:22 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 44, 'Eve': 52, 'Alice': 54}
+2025-09-20 00:42:22 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:25 | INFO | Processed JSON message: {'message': 'I just loved a movie! It was exciting.', 'author': 'Eve'}
+2025-09-20 00:42:25 | INFO | Message received from author: Eve
+2025-09-20 00:42:25 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 44, 'Eve': 53, 'Alice': 54}
+2025-09-20 00:42:25 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:28 | INFO | Processed JSON message: {'message': 'I just found a movie! It was exciting.', 'author': 'Eve'}
+2025-09-20 00:42:28 | INFO | Message received from author: Eve
+2025-09-20 00:42:28 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 44, 'Eve': 54, 'Alice': 54}
+2025-09-20 00:42:28 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:31 | INFO | Processed JSON message: {'message': 'I just shared a trick! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:42:31 | INFO | Message received from author: BoUSER
+2025-09-20 00:42:31 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 45, 'Eve': 54, 'Alice': 54}
+2025-09-20 00:42:31 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:34 | INFO | Processed JSON message: {'message': 'I just shared a trick! It was weird.', 'author': 'BoUSER'}
+2025-09-20 00:42:34 | INFO | Message received from author: BoUSER
+2025-09-20 00:42:34 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 46, 'Eve': 54, 'Alice': 54}
+2025-09-20 00:42:34 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:37 | INFO | Processed JSON message: {'message': 'I just tried a trick! It was USERoring.', 'author': 'Alice'}
+2025-09-20 00:42:37 | INFO | Message received from author: Alice
+2025-09-20 00:42:37 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 46, 'Eve': 54, 'Alice': 55}
+2025-09-20 00:42:37 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:40 | INFO | Processed JSON message: {'message': 'I just saw a meme! It was amazing.', 'author': 'Alice'}
+2025-09-20 00:42:40 | INFO | Message received from author: Alice
+2025-09-20 00:42:40 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 46, 'Eve': 54, 'Alice': 56}
+2025-09-20 00:42:40 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:43 | INFO | Processed JSON message: {'message': 'I just loved a movie! It was funny.', 'author': 'Eve'}
+2025-09-20 00:42:43 | INFO | Message received from author: Eve
+2025-09-20 00:42:43 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 46, 'Eve': 55, 'Alice': 56}
+2025-09-20 00:42:43 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:46 | INFO | Processed JSON message: {'message': 'I just shared a story! It was weird.', 'author': 'Alice'}
+2025-09-20 00:42:46 | INFO | Message received from author: Alice
+2025-09-20 00:42:46 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 46, 'Eve': 55, 'Alice': 57}
+2025-09-20 00:42:46 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:49 | INFO | Processed JSON message: {'message': 'I just shared an app! It was USERoring.', 'author': 'Eve'}
+2025-09-20 00:42:49 | INFO | Message received from author: Eve
+2025-09-20 00:42:49 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 46, 'Eve': 56, 'Alice': 57}
+2025-09-20 00:42:49 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:52 | INFO | Processed JSON message: {'message': 'I just tried a story! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:42:52 | INFO | Message received from author: BoUSER
+2025-09-20 00:42:52 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 47, 'Eve': 56, 'Alice': 57}
+2025-09-20 00:42:52 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:55 | INFO | Processed JSON message: {'message': 'I just loved an app! It was funny.', 'author': 'BoUSER'}
+2025-09-20 00:42:55 | INFO | Message received from author: BoUSER
+2025-09-20 00:42:55 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 48, 'Eve': 56, 'Alice': 57}
+2025-09-20 00:42:55 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:42:58 | INFO | Processed JSON message: {'message': 'I just found a story! It was weird.', 'author': 'BoUSER'}
+2025-09-20 00:42:58 | INFO | Message received from author: BoUSER
+2025-09-20 00:42:58 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 49, 'Eve': 56, 'Alice': 57}
+2025-09-20 00:42:58 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:01 | INFO | Processed JSON message: {'message': 'I just saw a trick! It was exciting.', 'author': 'Eve'}
+2025-09-20 00:43:01 | INFO | Message received from author: Eve
+2025-09-20 00:43:01 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 49, 'Eve': 57, 'Alice': 57}
+2025-09-20 00:43:01 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:04 | INFO | Processed JSON message: {'message': 'I just shared a meme! It was USERoring.', 'author': 'Alice'}
+2025-09-20 00:43:04 | INFO | Message received from author: Alice
+2025-09-20 00:43:04 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 49, 'Eve': 57, 'Alice': 58}
+2025-09-20 00:43:04 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:07 | INFO | Processed JSON message: {'message': 'I just shared a meme! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:43:07 | INFO | Message received from author: BoUSER
+2025-09-20 00:43:07 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 50, 'Eve': 57, 'Alice': 58}
+2025-09-20 00:43:07 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:10 | INFO | Processed JSON message: {'message': 'I just tried an app! It was amazing.', 'author': 'BoUSER'}
+2025-09-20 00:43:10 | INFO | Message received from author: BoUSER
+2025-09-20 00:43:10 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 51, 'Eve': 57, 'Alice': 58}
+2025-09-20 00:43:10 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:13 | INFO | Processed JSON message: {'message': 'I just found a story! It was USERoring.', 'author': 'Alice'}
+2025-09-20 00:43:13 | INFO | Message received from author: Alice
+2025-09-20 00:43:13 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 51, 'Eve': 57, 'Alice': 59}
+2025-09-20 00:43:13 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:16 | INFO | Processed JSON message: {'message': 'I just saw a meme! It was funny.', 'author': 'Alice'}
+2025-09-20 00:43:16 | INFO | Message received from author: Alice
+2025-09-20 00:43:16 | INFO | Updated author counts: {'Charlie': 42, 'BoUSER': 51, 'Eve': 57, 'Alice': 60}
+2025-09-20 00:43:16 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:19 | INFO | Processed JSON message: {'message': 'I just shared a meme! It was USERoring.', 'author': 'Charlie'}
+2025-09-20 00:43:19 | INFO | Message received from author: Charlie
+2025-09-20 00:43:19 | INFO | Updated author counts: {'Charlie': 43, 'BoUSER': 51, 'Eve': 57, 'Alice': 60}
+2025-09-20 00:43:19 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:22 | INFO | Processed JSON message: {'message': 'I just found an app! It was amazing.', 'author': 'Eve'}
+2025-09-20 00:43:22 | INFO | Message received from author: Eve
+2025-09-20 00:43:22 | INFO | Updated author counts: {'Charlie': 43, 'BoUSER': 51, 'Eve': 58, 'Alice': 60}
+2025-09-20 00:43:22 | ERROR | Error processing message: update_chart() missing 1 required positional argument: 'message'
+2025-09-20 00:43:25 | INFO | Processed JSON message: {'message': 'I just shared an app! It was weird.', 'author': 'BoUSER'}
+2025-09-20 00:43:26 | INFO | Message received from author: BoUSER
