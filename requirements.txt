@@ -124,6 +124,7 @@ seaborn
 
 # Qt-based GUI framework for interactive plotting and animations (~50-60 MB)
 PyQt6; sys_platform != "win32"
+six
 
 # ======================================================
 # KAFKA STREAMING MESSAGE BROKER INTEGRATION
