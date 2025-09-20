@@ -58,38 +58,31 @@ plt.ion()  # Turn on interactive mode for live updates
 #####################################
 
 
-def update_chart():
-    """Update the live chart with the latest author counts."""
-    # Clear the previous chart
-    ax.clear()
+def update_chart(message: dict):
+    author = message.get("author", "Unknown")
+    text = message.get("message", "")
 
-    # Get the authors and counts from the dictionary
-    authors_list = list(author_counts.keys())
-    counts_list = list(author_counts.values())
+    # Initialize stats for new author
+    if author not in stats:
+        stats[author] = {"total_chars": 0, "count": 0, "avg": 0.0}
 
-    # Create a bar chart using the bar() method.
-    # Pass in the x list, the y list, and the color
-    ax.bar(authors_list, counts_list, color="green")
+    # Update stats
+    length = len(text)
+    stats[author]["total_chars"] += length
+    stats[author]["count"] += 1
+    stats[author]["avg"] = stats[author]["total_chars"] / stats[author]["count"]
 
-    # Use the built-in axes methods to set the labels and title
-    ax.set_xlabel("Authors")
-    ax.set_ylabel("Message Counts")
-    ax.set_title("Basic Real-Time Author Message Counts")
+    # Prepare chart data
+    authors = list(stats.keys())
+    avgs = [stats[a]["avg"] for a in authors]
 
-    # Use the set_xticklabels() method to rotate the x-axis labels
-    # Pass in the x list, specify the rotation angle is 45 degrees,
-    # and align them to the right
-    # ha stands for horizontal alignment
-    ax.set_xticklabels(authors_list, rotation=45, ha="right")
+    # Clear and redraw chart
+    plt.cla()
+    plt.bar(authors, avgs, color="skyblue")
+    plt.xlabel("Author")
+    plt.ylabel("Average Message Length (chars)")
+    plt.title("Avg Message Length per Author")
 
-    # Use the tight_layout() method to automatically adjust the padding
-    plt.tight_layout()
-
-    # Draw the chart
-    plt.draw()
-
-    # Pause briefly to allow some time for the chart to render
-    plt.pause(0.01)
 
 
 #####################################
